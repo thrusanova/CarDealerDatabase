@@ -1,0 +1,16 @@
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDEalers.Client.exe.config
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDEalers.Client.exe
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDEalers.Client.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDealers.Data.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDealers.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\EntityFramework.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDealers.Data.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\CarDealers.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\EntityFramework.xml
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\obj\Debug\CarDEalers.Client.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\obj\Debug\CarDEalers.Client.exe
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDEalers.Client\obj\Debug\CarDEalers.Client.pdb

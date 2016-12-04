@@ -1,0 +1,12 @@
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\CarDealers.Data.dll.config
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\CarDealers.Data.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\CarDealers.Data.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\CarDealers.Models.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\EntityFramework.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\CarDealers.Models.pdb
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\EntityFramework.xml
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\obj\Debug\CarDealers.Data.csprojResolveAssemblyReference.cache
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\obj\Debug\CarDealers.Data.dll
+c:\users\tanya\documents\visual studio 2015\Projects\Dealers\CarDealers.Data\obj\Debug\CarDealers.Data.pdb
