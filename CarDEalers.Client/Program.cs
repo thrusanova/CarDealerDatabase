@@ -28,7 +28,7 @@ namespace CarDEalers.Client
 
         private static void ImportSales()
         {
-            double[] discounts = new double[] { 0, 0.05, 0.10, 0.20, 0.30, 0.40, 0.50 };
+            decimal[] discounts = new decimal[] { 0, 0.05m, 0.10m, 0.20m, 0.30m, 0.40m, 0.50m };
             var context = new CarDealersContext();
             Random rnd = new Random();
             var cars = context.Cars.ToList();
@@ -40,7 +40,7 @@ namespace CarDEalers.Client
                 var discount = discounts[rnd.Next(discounts.Length)];
                 if (customer.isYoungDriver)
                 {
-                    discount += 0.05;
+                    discount += 0.05m;
                 }
 
                 Sale sale = new Sale()

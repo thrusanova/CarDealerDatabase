@@ -12,6 +12,7 @@ namespace CarDealers.Data
         public CarDealersContext()
             : base("name=CarDealersContext")
         {
+            this.Configuration.LazyLoadingEnabled = false;
         }
         public virtual DbSet<Car> Cars { get; set; }
 
