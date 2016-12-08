@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDEalers.Client", "CarDEa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Query", "CarDealer.Query\CarDealer.Query.csproj", "{1197472A-B1D5-461A-8C64-104AE3024878}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportXml", "ExportXml\ExportXml.csproj", "{D00B78C0-EAC7-4BEC-8886-C02CF76E5BBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1197472A-B1D5-461A-8C64-104AE3024878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1197472A-B1D5-461A-8C64-104AE3024878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1197472A-B1D5-461A-8C64-104AE3024878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00B78C0-EAC7-4BEC-8886-C02CF76E5BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00B78C0-EAC7-4BEC-8886-C02CF76E5BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00B78C0-EAC7-4BEC-8886-C02CF76E5BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00B78C0-EAC7-4BEC-8886-C02CF76E5BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
